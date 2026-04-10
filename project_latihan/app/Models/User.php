@@ -23,6 +23,7 @@ class User extends Authenticatable
         'nim',
         'prodi',
         'cita cita',
+        'lagu dangdut',
     ];
 
     /**
